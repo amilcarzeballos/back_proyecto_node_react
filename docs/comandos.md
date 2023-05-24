@@ -11,3 +11,5 @@
 # npm install -D sequelize-cli 
 # configurar archivo .sequelizerc
 # npx sequelize-cli init
+# 8 instalar dot env
+# npm i dotenv
