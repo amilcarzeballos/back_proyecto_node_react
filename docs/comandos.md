@@ -13,3 +13,6 @@
 # npx sequelize-cli init
 # 8 instalar dot env
 # npm i dotenv
+
+
+# 10 npx sequelize-cli db:migrate ese comando realiza la migracion a tablas edel modelo creado con el atereor comando npx

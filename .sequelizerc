@@ -1,3 +1,4 @@
+//configuramos sqilizer las carpetas para cuando corramos el comando npx squilezer las cree
 const path = require("path");
 
 module.exports = {
